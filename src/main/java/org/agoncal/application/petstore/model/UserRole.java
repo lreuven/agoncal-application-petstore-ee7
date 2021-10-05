@@ -11,3 +11,5 @@ public enum UserRole
 
    USER, ADMIN
 }
+
+password=gfGDEGR13244f2
