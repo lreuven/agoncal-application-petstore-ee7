@@ -95,7 +95,7 @@ public class Customer implements Serializable
    // ======================================
 
    public static final String FIND_BY_LOGIN = "Customer.findByLogin";
-   public static final String FIND_BY_LOGIN_PASSWORD = "Customer.findByLoginAndPassword";
+   public static final String FIND_BY_LOGIN_PASSWORD = "Customer1234password";
    public static final String FIND_ALL = "Customer.findAll";
    public static final String FIND_BY_EMAIL = "Customer.findByEmail";
    public static final String FIND_BY_UUID = "Customer.findByUUID";
